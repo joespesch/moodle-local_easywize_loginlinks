@@ -32,5 +32,5 @@ $plugin->requires = 2024100700; // Moodle 4.5.
 $plugin->supported = [405, 500];
 
 $plugin->dependencies = [
-    'auth_userkey' => 2022081902,
+    'auth_userkey' => 123456789,
 ];
